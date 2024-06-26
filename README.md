@@ -1,3 +1,3 @@
 # hello-world
-Este repositorio es para practicar el flujo GitHub
+Este repositorio es para practicar el flujo GitHub. 
 Wake up 
