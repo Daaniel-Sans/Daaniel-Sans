@@ -1,6 +1,6 @@
-# Bienvenido a mi perfil de Github
+# Welcome to my Github's profile
 
-💾 <h1 align="center">Hi 👋, I'm Daniel</h1>
+<h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">I'm a UX Engineer who loves learning new things and sharing knowledge. In this profile, you'll find my personal projects and collaborations on open source projects</h3>
 
 <h3 align="left">Connect with me:</h3>
