@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">I'm a UX Engineer who loves learning new things and sharing knowledge. In this profile, you'll find my personal projects and collaborations on open source projects</h3>
+<h3 align="center">I'm a Web Developer Student who loves learning new things and sharing knowledge. In this profile, you'll find my personal projects and collaborations</h3>
 
 - 👨‍💻 All of my projects are available at [https://uxportfolio-danipavon.framer.website/](https://uxportfolio-danipavon.framer.website/)
 
